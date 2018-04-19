@@ -62,6 +62,50 @@ Java -jar cracker2017.jar
 重要的事情说三遍,哈哈！！！！
 
 
+以上不好使的话继续
+https://jingyan.baidu.com/article/acf728fd49519ff8e410a361.html
+
+
+
+在usercode那里随便输入一串字符，点 击SystemId 按钮产生一个 SystemId，再点 Active 按钮。下面的窗口会出现一些东西，如果出现null，则说明你环境变量配置得不对。 
+解决MyEclipse注册失败的问题
+解决MyEclipse注册失败的问题
+打开 MyEclipse，MyEclipse‐-->Subscription Information，把上面生成的
+ LICENSEE 复制到 Subscripter 中，
+LICENSE_KEY 复制到 Subscriptioncode 中。
+点 击 Save& Activate Now 按钮。
+解决MyEclipse注册失败的问题
+解决MyEclipse注册失败的问题
+在弹出的窗口中，选择 Web activation(connect using your webbroswer)，点 Next，产生一个 URL，URL 中有个参数 SystemId，把SystemId复制到破解界面 的 SystemId 中。  
+ 
+解决MyEclipse注册失败的问题
+解决MyEclipse注册失败的问题
+解决MyEclipse注册失败的问题
+关闭 MyEclipse，到破解界面，执行以下操作：
+1.Tools--->rebuildKey 
+2.Tools‐‐->saveProperties 
+3.Tools‐‐‐‐>ReplaceJarFile
+4.选择你的安装目录/myeclipse/plusgin 目录 。（其他版本的MyEclipse的plusgin文件夹路径是/myeclipse/Common/plusgin ）
+5.替换过程需要稍等一会，替换成功后下面窗体会出现‘Done’来提示，这时
+再次点击 Active 按钮将会生成新的 ACTIVATION_KEY。 
+解决MyEclipse注册失败的问题
+解决MyEclipse注册失败的问题
+解决MyEclipse注册失败的问题
+打开 MyEclipse， MyEclipse‐->Subscription Information，再次把上面生成的 
+LICENSEE 复制到 Subscripter 中，
+LICENSE_KEY 复制到 Subscription code 中。
+点击 Activate Now 按钮。
+解决MyEclipse注册失败的问题
+ 在弹出的窗口中，选择 I already have an activation code。
+点击Next。
+解决MyEclipse注册失败的问题
+把破解界面的 ACTIVATION_KEY 复制到弹出的窗口中。然后一路NEXT，有个地方它提示让你输入邮箱注册，这个你随意。
+解决MyEclipse注册失败的问题
+再次打开MyEclipse‐-->Subscription Information，Product activation must be completed within * days的提示就消失了，注册成功。如果帮到你，请投我一票。
+解决MyEclipse注册失败的问题
+
+
+
 [我的GitHub](http://blog.csdn.net/e_inch_photo)
 [我的CSDN](https://github.com/chenshouyin?tab=repositories)
 [我的简书](http://www.jianshu.com/u/303ec9abdc08)
